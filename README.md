@@ -1,4 +1,5 @@
 # 🚀 SalesForecastAI — Automated Sales Forecasting System
+<img width="1280" height="698" alt="WhatsApp Image 2026-05-06 at 4 49 27 PM" src="https://github.com/user-attachments/assets/40f7d58a-2f11-4609-83eb-bb31ec0ca1a7" />
 
 A full-stack, production-ready automated sales forecasting platform powered by machine learning.
 
